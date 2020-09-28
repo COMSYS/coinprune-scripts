@@ -1,0 +1,4 @@
+progressbar2
+chainside-btcpy
+pandas
+ecdsa
